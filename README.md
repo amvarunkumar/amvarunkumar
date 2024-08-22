@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **everday unique python projects.**
 
-- 🌱 I’m currently learning **Data analyst course and passionate to learn cybersecurity related topics.**
-
 - 💬 Ask me about **python & javascript.**
 
 - 📫 How to reach me **varunkumar16671@gmail.com**
